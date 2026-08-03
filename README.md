@@ -4,10 +4,5 @@ Naturelly is a modern e-commerce website designed for a natural hair care brand.
 
 ## 🌐 Live Demo
 
-https://your-netlify-link.netlify.app/
+(https://naturally1.netlify.app/)
 
-## 📂 GitHub Repository
-
-https://github.com/Sabarisuthan/Naturelly1
-
----

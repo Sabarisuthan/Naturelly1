@@ -1,0 +1,6 @@
+{
+  "name": "Naturelle Natural Hair Care",
+  "description": "Plant-powered hair care e-commerce experience with interactive parallax effects, sleek animations, product catalog, detailed product view, custom 3-step ritual, cart management, and subscription plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
